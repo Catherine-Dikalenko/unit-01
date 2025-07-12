@@ -60,7 +60,7 @@ document.querySelector('.out-10').innerHTML = '<h2>Hi</h2>';
 // На странице создан div.out-11. Запишите внутрь него строку '123'. Для записи используйте innerHTML. Второй операцией - допишите в div.out-11 строку '456'. Для дозаписи примените +=. Обратите внимание - код уже набран, вам нужно удалить комментарий и изучить принцип работы. 
 
 document.querySelector('.out-11').innerHTML = '123';
-document.querySelector('.out-11').innerHTML += '345';
+document.querySelector('.out-11').innerHTML += '456';
 
 
 // Task 12.
